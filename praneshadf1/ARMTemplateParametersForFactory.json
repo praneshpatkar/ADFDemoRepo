@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "praneshadf1"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
