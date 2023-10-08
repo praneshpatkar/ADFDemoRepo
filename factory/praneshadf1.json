@@ -1,0 +1,9 @@
+{
+	"name": "praneshadf1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf9168b8-9922-4238-be87-90523913b440",
+		"tenantId": "488a10b5-fe0a-4846-a36e-57e638292bdf"
+	}
+}
